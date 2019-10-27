@@ -1,0 +1,1 @@
+bulk-photo-rename
